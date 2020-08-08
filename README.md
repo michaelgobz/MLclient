@@ -1,7 +1,7 @@
 # MLclient
-Smart App demonstration
+Smart App demostration
 
-## it demeostartes pettern recognition 
+## it demostartes pettern recognition 
 specifically numbers  from 0 - 9 
 
 ## set up 
